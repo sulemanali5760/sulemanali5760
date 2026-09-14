@@ -23,3 +23,5 @@ I work where the PLC meets the PC: control logic on the machine, and the softwar
 [LinkedIn](https://www.linkedin.com/in/suleman-ali-5760) · [Portfolio](https://sulemanali.store)
 
 Open to working student positions in PLC programming and industrial automation in Germany. Willing to relocate.
+
+Offen für Werkstudentenstellen in SPS-Programmierung und Automatisierungstechnik, deutschlandweit und umzugsbereit.
