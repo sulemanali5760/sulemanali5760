@@ -18,6 +18,7 @@ Things made to be reused on the next machine.
 | Project | What it does |
 |---|---|
 | [aidconnect](https://github.com/sulemanali5760/aidconnect) | Python library: connects to an OPC UA asset from its Asset Administration Shell alone. Endpoint, security and datapoints come from the Asset Interfaces Description; includes a gateway that publishes live values on the AAS REST API |
+| [opcua-doctor](https://github.com/sulemanali5760/opcua-doctor) | Command-line tool: finds out why an OPC UA connection fails (address, endpoints, certificates, trust, login) and says what to do about it |
 | [twincat3-pickplace-framework](https://github.com/sulemanali5760/twincat3-pickplace-framework) | Minimal machine framework in TwinCAT 3 Structured Text: node tree, mode handling, pick-and-place unit running on a soft-PLC |
 | [opcua-tagmap](https://github.com/sulemanali5760/opcua-tagmap) | Command-line tool: browses an OPC UA server and generates collector configs and tag inventories |
 | [opc-ua-test-automation-pipeline](https://github.com/sulemanali5760/opc-ua-test-automation-pipeline) | Reads live PLC data over OPC UA or ADS, checks it against a written test case and generates a pass/fail report |
