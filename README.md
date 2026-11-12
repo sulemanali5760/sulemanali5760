@@ -6,6 +6,8 @@ I build reusable automation software, and I commission the machines it runs on. 
 
 How I build: every repo has tests that run in CI, a README that states its limits, and numbers traced to a measurement or a standard.
 
+*Kurz auf Deutsch:* Ich entwickle wiederverwendbare Automatisierungssoftware (SPS-Frameworks und Standardbausteine, Testwerkzeuge, OPC-UA- und Verwaltungsschalen-Anbindung) und nehme die Anlagen in Betrieb, auf denen sie läuft. Jedes Repository hat automatische Tests, benennt seine Grenzen und belegt seine Zahlen.
+
 - **PLC:** Siemens S7-1200 / S7-1500 (TIA Portal), Beckhoff TwinCAT 3, IEC 61131-3 (LAD, FBD, ST/SCL)
 - **Integration:** OPC UA (information models, security), Asset Administration Shell (IDTA submodels, Eclipse BaSyx), PROFINET, MQTT, Beckhoff ADS
 - **Software:** Python, ROS 2, Git, CI with GitHub Actions
