@@ -32,6 +32,7 @@ Complete applications, commissioned in simulation.
 
 | Project | What it does |
 |---|---|
+| [iiot-maintenance-agent](https://github.com/sulemanali5760/iiot-maintenance-agent) | Shop floor to maintenance in one chain: simulated IO-Link sensors over OPC UA, bridged to MQTT (TLS-ready for cloud brokers), stored in SQLite, checked against limits and a linear trend; on an alarm it writes a maintenance notification with the matching manual sections cited (BM25 retrieval, optional LLM) and posts it to an ERP endpoint mock |
 | [heating-plant-aas](https://github.com/sulemanali5760/heating-plant-aas) | A commissioned S7-1500 heating plant as an Industrie 4.0 component: Python model checked sample by sample against the PLCSIM trace, controller robustness analysis (stability margins, valve actuator, sensor noise), secured OPC UA server with a typed model, Asset Administration Shell from official IDTA templates, AAS REST API |
 | [twincat3-hrl-virtual-commissioning](https://github.com/sulemanali5760/twincat3-hrl-virtual-commissioning) | Virtual commissioning of a pallet high-bay warehouse in TwinCAT 3: stacker crane, conveyor standard block, telegram interface to the material flow computer, FEM 9.851 throughput proof, built on `NodeTree.library` |
 | [amr-station-handshake](https://github.com/sulemanali5760/amr-station-handshake) | A mobile robot hands a load to a PLC-controlled conveyor station: ROS 2 action on the robot side, OPC UA signal handshake with per-phase timeouts on the PLC side |
